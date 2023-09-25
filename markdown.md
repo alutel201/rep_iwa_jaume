@@ -1,6 +1,6 @@
-#markdown tarea
+# markdown tarea
 
-##hecho por jaume
+## hecho por jaume
 
 palabras en **negrita** , *cursiva*, `codigo`
 
